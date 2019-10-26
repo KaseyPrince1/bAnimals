@@ -1,3 +1,4 @@
 # bAnimals
 
-Image in files 
+![GitHub Logo](/images/bAnimals.png)
+Format: ![Alt Texr](url)
